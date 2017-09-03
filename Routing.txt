@@ -1,0 +1,1 @@
+Routing er að senda gögn milli neta. Í vefsíðu gerð er routing notað fyrir að gera aðrar síður í einni síðu
