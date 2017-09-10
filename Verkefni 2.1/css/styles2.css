@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	align-content: center;
+	background-color: grey
+}
+h1{
+	color: green
+}
+.img2{
+	width: 287.5px;
+	height: 328.5px;
+	border-radius: 50px;
+}
+.img1{
+	width: 271.5px;
+	height: 250px;
+	border-radius: 50px;
+}
+.img3{
+
+}
