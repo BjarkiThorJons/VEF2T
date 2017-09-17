@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	align-content: center;
+}
+h1{
+	color: red
+}
+img{
+	width: 271.5px;
+	height: 250px;
+	border-radius: 50px;
+}
+.body2{
+	background-color: #00ffff;
+	color:green;
+}
